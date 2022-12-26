@@ -250,7 +250,7 @@ class _EditProductScreenState extends State<EditProductScreen> {
 
                     if (!_key.currentState!.validate()) {
                       alertDialogWarning(
-                          context, 'Error', 'Input values are invalid');
+                          context, 'Error', 'Los valores de entrada no son válidos');
                     } else {
                       _key.currentState!.save();
                       if (productProvider.image != null) {

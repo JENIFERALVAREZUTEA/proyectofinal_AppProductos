@@ -15,8 +15,8 @@ const bodyWhiteMobileStyle=TextStyle(fontSize:16.0 ,color: Colors.white,fontFami
 const titleWhiteMobileStyle=TextStyle(fontSize:18,color: Colors.white,fontFamily: 'bold',);
 
 //Green
-const bodyGreenMobileStyle=TextStyle(fontSize: 16.0 ,color: Colors.green,fontFamily: 'small',);
-const bodyBoldGreenMobileStyle=TextStyle(fontSize:16.0 ,color: Colors.green,fontFamily: 'bold',);
+const bodyGreenMobileStyle=TextStyle(fontSize: 16.0 ,color: Colors.indigo,fontFamily: 'small',);
+const bodyBoldGreenMobileStyle=TextStyle(fontSize:16.0 ,color: Colors.indigo,fontFamily: 'bold',);
 
 //
 const bodyPrimaryMobileStyle=TextStyle(fontSize:16.0 ,color: primaryColor,fontFamily: 'small',);

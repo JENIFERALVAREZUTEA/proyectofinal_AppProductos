@@ -3,7 +3,7 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:uuid/uuid.dart';
-import '../database/db_helper.dart';
+import '../database/db_productos.dart';
 
 class ProductModel {
   final String id;
